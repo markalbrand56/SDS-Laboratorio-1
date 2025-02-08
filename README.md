@@ -1,11 +1,6 @@
 # SDS-Laboratorio-1
 
-## Parte 1 - Ingeniería de características
+## Integrantes
 
-### Exploración de datos
-
-### Derivación de características
-
-### Preprocesamiento
-
-### Selección de características
+- [Mark Albrand](https://github.com/markalbrand56)
+- [Jose Santisteban](https://github.com/jskenpo)
